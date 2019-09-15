@@ -30,7 +30,8 @@
       "additionalSetColors": [
         "#1e928b",
         "#0f2d59",
-        "#1e2a55"
+        "#1e2a55",
+        "#27e0d5"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -87,7 +88,7 @@
               "text-align": "left"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#0f2d59",
+              "color": "#27e0d5",
               "text-align": "left"
             }
           },
