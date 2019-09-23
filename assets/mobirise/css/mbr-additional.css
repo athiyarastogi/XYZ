@@ -979,7 +979,8 @@ section.lazy-placeholder:after {
   color: #1e928b;
 }
 .cid-rCGih4T9PE {
-  background-image: url("../../../assets/images/screen-3x-2000x1333.jpeg");
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .cid-rCGih4T9PE .icons-media-container {
   display: flex;
